@@ -1,0 +1,23 @@
+/*
+Theme Name: Fictional University Theme
+
+*/
+
+
+body {
+
+    background-color: rgb(229, 209, 170);
+    
+}
+
+/* Image Styles */
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+table .wp-calendar-table {
+    box-shadow: 0px 1px 5px rgba(95, 85, 85, 1);
+}
